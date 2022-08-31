@@ -1,0 +1,10 @@
+body {
+  background-color: white;
+}
+.big-title{
+  font-size: 10rem;
+  color: blue;
+}
+.margin {
+  margin:100px;
+}
